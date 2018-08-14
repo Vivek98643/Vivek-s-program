@@ -1,2 +1,6 @@
-# Vivek-s-program
-Just a normal repository
+#include<stdio.h>
+
+int main(int){
+printf("Hello git")
+
+}
